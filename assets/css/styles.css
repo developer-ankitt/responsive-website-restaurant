@@ -454,6 +454,13 @@ img{
   margin-top: 3.5rem;
 }
 
+.footer__copy a{
+  text-align: center;
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+}
+
+
 /*========== MEDIA QUERIES ==========*/
 @media screen and (min-width: 576px){
   .home__container,
